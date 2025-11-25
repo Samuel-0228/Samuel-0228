@@ -13,6 +13,11 @@ I aim to grow into a versatile systems engineer contributing to innovative and s
 - Scripting & Algorithm Implementation
 - API Integration
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ## 💻 Programming Languages & Tools
 Python, C++, PHP, SQL, VS Code, Git, GitHub, MySQL Workbench, PostgreSQL, XAMPP, Postman, Docker, Linux Terminal
 
