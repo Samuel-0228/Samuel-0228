@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&duration=3000&pause=1000&color=#FFD700&width=500&lines=Hi,+I'm+Samuel+👋)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&duration=3000&pause=1000&color=FFD700&width=500&lines=Hi,+I'm+Samuel+👋)
 
 ## 💻 Programming Languages & Tools
 
