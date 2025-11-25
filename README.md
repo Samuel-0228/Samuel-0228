@@ -1,42 +1,26 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FF00&width=500&lines=Hi,+I'm+Samuel+👋)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FF02&width=500&lines=Hi,+I'm+Samuel+👋)
 
-## About Me
-I am a system design and automation enthusiast with experience in building efficient and reliable solutions.  
-I enjoy designing workflows, automating processes, and developing backend systems.  
-I aim to grow into a versatile systems engineer contributing to innovative and scalable projects.
-
-## 🔧 Technical Skills
-- System Design
-- Process Automation
-- Backend Development
-- Database Design & Management
-- Scripting & Algorithm Implementation
-- API Integration
+## 💻 Programming Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FCC624?style=for-the-badge&logo=xampp&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
-## 💻 Programming Languages & Tools
-Python, C++, PHP, SQL, VS Code, Git, GitHub, MySQL Workbench, PostgreSQL, XAMPP, Postman, Docker, Linux Terminal
 
-## 📂 Projects
-### **E-Commerce Solutions for Ethiopian Farmers**
-- Developed a digital platform connecting rural farmers with urban markets.  
-- Applied system design and innovation strategies to address distribution gaps and improve market access.  
-- Conducted a full design sprint including prototype development and workflow planning.
 
-### **Automated Medical Pharmacy Management System**
-- Designed and developed a system to streamline pharmacy operations, including inventory tracking and prescription handling.  
-- Reduced manual work, minimized errors, and improved workflow efficiency.  
-- Built core features using programming and database tools to demonstrate a functional solution.
 
 ## 🎓 Education
-**Information Systems** – Addis Ababa University – Ethiopia – *Start Date* to **Present**  
-- Specialization: System Design and Automation  
-- Engaged in coursework and practical projects to strengthen skills in designing systems and creating automated workflows.
+**Information Systems** – Addis Ababa University
 
-## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [Email](mailto:your.email@example.com)
+## 📫 Contact Me 
+- [Email](mailto:ytsamuael@gmail.com)
