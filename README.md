@@ -26,6 +26,7 @@
 - [Email](mailto:ytsamuael@gmail.com)
 
 ## Bio
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=3&duration=3000&pause=1000&color=FFD700&width=900&lines=🐛echo+"Progress+over+perfection")
- 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=14&duration=3000&pause=1000&color=FFD700&width=900&lines=🐛echo+"Progress+over+perfection")
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=1E90FF&width=900&lines=🐛echo+"Progress+over+perfection")
+
 
