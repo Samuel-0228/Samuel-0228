@@ -24,3 +24,5 @@
 
 ## 📫 Contact Me 
 - [Email](mailto:ytsamuael@gmail.com)
+
+## 🐛echo "Progress over perfection"
