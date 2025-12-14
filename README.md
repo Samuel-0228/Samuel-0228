@@ -25,4 +25,6 @@
 ## 📫 Contact Me 
 - [Email](mailto:ytsamuael@gmail.com)
 
-## 🐛echo "Progress over perfection"
+## Bio
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=33&duration=3000&pause=1000&color=FFD700&width=500&lines=🐛echo "Progress over perfection")
+
