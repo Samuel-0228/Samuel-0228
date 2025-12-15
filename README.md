@@ -25,7 +25,7 @@
 ## 📫 Contact Me 
 - [Email](mailto:ytsamuael@gmail.com)
 
-## Bio
+
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=12&duration=3000&pause=1000&color=1E90FF&width=900&lines=🐛echo+"Progress+over+perfection")
 
 
