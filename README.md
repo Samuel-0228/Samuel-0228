@@ -1,66 +1,45 @@
-# 🌐 Samuel Y.– Data Alchemist & Automation Architect
+# 👋 Samuel Yitbarek – Tech Student in the Making
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFFF&center=true&width=600&lines=Automating+Insights,+One+Query+at+a+Time;Data+Flows+Like+Code+–+Fluid+and+Fearless" alt="Intro Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&center=true&width=500&lines=Hey+there!+I'm+Samuel;Just+a+tech+student+diving+into+code" alt="Typing Intro">
 </div>
 
 ---
 
-## 🔮 **Core Directive: Streamline Data, Amplify Impact**
-
-Full-Stack Engineer specializing in **data pipelines, predictive analytics, and seamless automation**. I transform raw datasets into actionable intelligence using Python-driven ML models and Docker-orchestrated workflows. Goal: Zero-touch systems that evolve with your data.
+Hey! I'm Samuel, a **tech student** at Addis Ababa University, studying Information Systems. I'm passionate about coding, data, and building cool stuff – nothing fancy, just learning and experimenting one line at a time. From Python scripts to simple web apps, I'm here for the journey.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Data+Automation-00D4AA?style=for-the-badge&logo=neural-network&logoColor=white">
-  <img src="https://img.shields.io/badge/Impact-99.9%25+Uptime-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white">
+  <img src="https://img.shields.io/badge/Current-VS+Code+&+Coffee-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
 ---
 
-## ⚡ **Tech Fusion: Analysis + Automation Stack**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python+ML-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL+Postgres-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker+Linux-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Git+Postman-F05032?style=for-the-badge&logo=git&logoColor=white">
-</div>
-
-> **Automation Edge:** CI/CD pipelines that self-heal; ETL scripts slashing analysis time by 70%.
+## 🛠 Quick Tech Stack (What I'm Playing With)
+- **Languages:** Python, C++, PHP, SQL
+- **Tools:** VS Code, Git, MySQL/PostgreSQL, Docker (kinda)
 
 ---
 
-## 📊 **Pulse: Live Metrics & Interactive Dashboards**
+## 📚 A Bit About Me
+- **Education:** BSc Information Systems, Addis Ababa University (Class of 2025)
+- **Fun Fact:** I love automating boring tasks – because who doesn't?
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ytsamuel&show_icons=true&theme=dark&hide_border=true&title_color=00FFFF&text_color=FFFFFF&hide=stars" alt="Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytsamuel&theme=dark&hide_border=true&background=0D1117&border=00FFFF" alt="Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ytsamuel&show_icons=true&theme=radical&hide_border=true&hide=stars,prs" width="48%">
 </div>
-
-**Interactive Playground:** Explore my [data viz repo](https://github.com/ytsamuel/data-automation-hub) – Jupyter notebooks with Streamlit apps for real-time anomaly detection.
 
 ---
 
-## 🎓 **Forge: BSc Information Systems**  
-*Addis Ababa University* (2025) | Thesis: *Automated Anomaly Detection in Streaming Data*  
-GPA: 3.9 | Certified: Google Data Analytics + AWS Automation Essentials.
+## 📫 Let's Chat
+- Email: [ytsamuael@gmail.com](mailto:ytsamuael@gmail.com)
+- GitHub: [@ytsamuel](https://github.com/ytsamuel)
+- LinkedIn: [Samuel Yitbarek](https://linkedin.com/in/ytsamuel)
 
----
-
-## 🚀 **Nexus: Connect & Collaborate**
-
-<div align="center">
-  <a href="mailto:ytsamuael@gmail.com"><img src="https://img.shields.io/badge/Email-E91E63?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/ytsamuel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/ytsamuel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
-
-**Let's Automate the Future:** Ping me for data strategy sessions or open-source automation forks.
+Feel free to say hi – I'm always up for geeky convos!
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=20&duration=4000&pause=1000&color=FF00FF&center=true&width=500&lines=Data+is+the+New+Oil;Automate+or+Stagnate;Insights+in+Motion" alt="Outro">
-  <br><sub>© 2026 | Powered by Code & Curiosity</sub>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=4000&pause=1000&color=FFD700&center=true&width=400&lines=Progress+over+perfection;Code+today,+dream+tomorrow" alt="Outro">
+  <br><sub>Made with ❤️ and a lot of trial & error</sub>
 </div>
-
