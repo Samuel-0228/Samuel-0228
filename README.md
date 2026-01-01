@@ -17,7 +17,7 @@ Hey from the digital frontier! I'm **Samuel **, a **tech student** diving deep i
 
 ---
 
-## 🛠 **Let's do some barging - Starfield Stack: Tools of the Trade **
+## 🛠 Let's do some barging - Starfield Stack: Tools of the Trade 
 
 <div align="center">
   <table>
