@@ -1,81 +1,44 @@
-# 🌌 Samuel Y.
+# Samuel Y.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=32&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&multiline=true&lines=Transmission+Received:+I'm+Samuel+Y.;Tech+Student+at+Addis+Ababa+University;Crafting+Code+for+the+Cosmic+Edge" alt="Nebula Greeting">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&multiline=true&lines=Hi,+I'm+Samuel+Y.;Tech+Student+Majoring+in+Information+Systems;At+Addis+Ababa+University" alt="Welcome Typing">
 </div>
 
 ---
 
-## 🔭 **Signal: Quick Orbit Scan**
+<div align="center">
+  <img src="https://img.shields.io/badge/AAU-Information+Systems-007ACC?style=for-the-badge&logo=university&logoColor=white">
+  <img src="https://img.shields.io/badge/Status-Learning+%26+Coding-00D4AA?style=for-the-badge&logo=code&logoColor=white">
+</div>
 
-Hey from the digital frontier! I'm **Samuel Y.**, a **tech student** diving deep into **Information Systems** at Addis Ababa University (Class of 2025). I geek out over turning ideas into interactive realities – think Python-powered automations, SQL data dances, and the occasional Docker deployment that actually works on the first try.
+## Quick Intro
 
-* 🎓 Program: Information Systems
-* 🧪 Focus: AI, Databases, Systems
-* 🚀 Motto: *Not chasing perfection, just pure progress*
+Hey! I'm **Samuel Y.**, a passionate tech student majoring in **Information Systems** at **Addis Ababa University** (Class of 2025). I'm all about exploring code, data, and systems that make life easier – one line at a time. Let's connect and build something cool! 🚀
 
 <div align="center">
-  <img src="https://img.shields.io/github/last-commit/samuel-0228/samuel-0228?style=for-the-badge&label=Status&color=00D4AA">
-  <img src="https://img.shields.io/badge/Fuel-Code+%26+Curiosity-FF6B6B?style=for-the-badge&logo=coffee&logoColor=white">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuel-0228&show_icons=true&theme=dracula&hide_border=true" width="48%" alt="GitHub Stats">
 </div>
 
 ---
 
-## 🛠 **Starfield Stack: Tools of the Trade**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br><sub>Scripting Stars</sub></td>
-      <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><br><sub>Speed Thrusters</sub></td>
-      <td align="center"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><br><sub>Web Warp</sub></td>
-      <td align="center"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"><br><sub>Data Constellations</sub></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"><br><sub>Command Deck</sub></td>
-      <td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><br><sub>Version Vault</sub></td>
-      <td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><br><sub>Container Cosmos</sub></td>
-      <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><br><sub>OS Odyssey</sub></td>
-    </tr>
-  </table>
-</div>
-
-> **Nebula Note:** Automating the chaos, one commit at a time.
-
----
-
-## 📊 **Telemetry: GitHub Pulse**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuel-0228&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&hide=stars,prs" width="48%">
-
-  <img src="https://streak-stats.demolab.com?user=samuel-0228&theme=radical&hide_border=true&background=0D1117&border=00FFFF&fire=orange&currStreakNum=FFD700" width="48%">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-0228&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" width="48%">
-</div>
-
----
-
-## 🌐 **Hyperspace Hubs: Reach Out**
-
+## 📫 Reach Out
 <div align="center">
   <a href="mailto:ytsamuael@gmail.com">
-    <img src="https://img.shields.io/badge/Email-E91E63?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-E91E63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/samuel-0228">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://linkedin.com/in/ytsamuel">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
-
-**Comm Link Active:** Open to collaborations, learning circles, and system-building missions.
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=24&duration=5000&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&multiline=true&lines=Embrace+the+Glitch;Code+the+Unknown;Together,+We+Soar" alt="Stellar Sign-Off">
-  <br><br>
-  <sub>© 2026 Samuel Y. | Built in the GitHub Galaxy with ❤️ and relentless curiosity</sub>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Code.+Learn.+Grow.;One+Commit+at+a+Time" alt="Outro Typing">
+  <br><sub>Made with ❤️ from AAU | © 2025 Samuel Y.</sub>
 </div>
+
+> **For More Interactivity:** Check out my [GitHub Pages site](https://samuel-0228.github.io) – animated background with particles.js for that smooth tech flow! (Deploy via repo settings if not live yet.)
