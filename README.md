@@ -44,7 +44,7 @@ Hey from the digital frontier! I'm **Samuel **, a **tech student** diving deep i
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ytsamuel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&hide=stars,prs" alt="Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytsamuel&theme=radical&hide_border=true&background=0D1117&border=00FFFF&fire=orange&currStreakNum=FFD700" alt="Streak" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-0228&theme=radical&hide_border=true&background=0D1117&border=00FFFF&fire=orange&currStreakNum=FFD700" alt="Streak" width="48%">
 </div>
 
 ---
