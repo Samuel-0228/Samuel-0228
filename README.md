@@ -38,7 +38,7 @@ Hey! I'm **Samuel Y.**, a passionate tech student majoring in **Information Syst
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Code.+Learn.+Grow.;One+Commit+at+a+Time" alt="Outro Typing">
-  <br><sub>Made with ❤️ from AAU | © 2025 Samuel Y.</sub>
+  <br><sub>Made with ❤️ | © 2025 Samuel Y.</sub>
 </div>
 
-> **For More Interactivity:** Check out my [GitHub Pages site](https://samuel-0228.github.io) – animated background with particles.js for that smooth tech flow! (Deploy via repo settings if not live yet.)
+
