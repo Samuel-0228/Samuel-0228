@@ -8,7 +8,7 @@
 
 ## 🔭 **Signal: Quick Orbit Scan**
 
-Hey from the digital frontier! I'm **Samuel **, a **tech student** diving deep into **Information Systems** at Addis Ababa University (Class of 2025). I geek out over turning ideas into interactive realities – think Python-powered automations, SQL data dances, and the occasional Docker deployment that actually works on the first try. GPA: We'll see | Motto:  *Not chasing perfection, just pure progress. Let's link up and launch some experiments! 🚀*
+Hey from the digital frontier! I'm **Samuel **, a **tech student** diving deep into **Information Systems** at Addis Ababa University (Class of 2025). I geek out over turning ideas into interactive realities – think Python-powered automations, SQL data dances, and the occasional Docker deployment that actually works on the first try. GPA: We'll see | Motto: *Not chasing perfection, just pure progress.* Let's link up and launch some experiments! 🚀
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Online+%26+Orbiting-00D4AA?style=for-the-badge&logo=neural-network&logoColor=white">
@@ -17,7 +17,7 @@ Hey from the digital frontier! I'm **Samuel **, a **tech student** diving deep i
 
 ---
 
-## 🛠 Let's do some barging - Starfield Stack: Tools of the Trade 
+## 🛠 ** Let's do some Barging - Starfield Stack: Tools of the Trade**
 
 <div align="center">
   <table>
@@ -43,8 +43,9 @@ Hey from the digital frontier! I'm **Samuel **, a **tech student** diving deep i
 ## 📊 **Telemetry: GitHub Pulse**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ytsamuel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&hide=stars,prs" alt="Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuel-0228&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&hide=stars,prs" alt="Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-0228&theme=radical&hide_border=true&background=0D1117&border=00FFFF&fire=orange&currStreakNum=FFD700" alt="Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-0228&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" width="48%">
 </div>
 
 ---
@@ -70,6 +71,5 @@ Hey from the digital frontier! I'm **Samuel **, a **tech student** diving deep i
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=24&duration=5000&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&multiline=true&lines=Embrace+the+Glitch;Code+the+Unknown;Together,+We+Soar" alt="Stellar Sign-Off">
   <br><br>
-  <sub>© 2025 Samuel Y. | Assembled in the GitHub Galaxy with ❤️ and lots of trail and errors</sub>
+  <sub>© 2026 Samuel Y. | Assembled in the GitHub Galaxy with ❤️ and lots of trial and error</sub>
 </div>
-
