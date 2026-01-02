@@ -52,7 +52,7 @@ I’m a **tech-driven problem solver** passionate about building **scalable syst
 
 ## 🧠 What I’m Into Right Now
 
-* 🤖 Intelligent systems & automation
+* 🤖 Intelligent systems
 * 📊 Data analysis & visualization
 * 🌐 Backend & system design
 * 🔐 Secure, scalable applications
@@ -65,7 +65,7 @@ I’m a **tech-driven problem solver** passionate about building **scalable syst
 
 <!-- GitHub Stats -->
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=samuel-0228&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-0228&layout=compact&theme=tokyonight&hide_border=true)
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-0228&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
