@@ -65,7 +65,7 @@ I’m a **tech-driven problem solver** passionate about building **scalable syst
 
 <!-- GitHub Stats -->
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=samuelY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samuel-0228&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-0228&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
@@ -87,7 +87,7 @@ I’m a **tech-driven problem solver** passionate about building **scalable syst
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samuel-0228&bg_color=0d1117&color=00f5ff&line=7f00ff&point=ff00cc&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samuel-0228&bg_color=0s1117&color=00f5ff&line=7f00ff&point=ff00cc&hide_border=true" />
 
 </div>
 
