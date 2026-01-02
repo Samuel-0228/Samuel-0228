@@ -10,7 +10,7 @@
 
 <!-- Glassmorphism Banner -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff,50:7f00ff,100:ff00cc&height=180&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=28&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff,50:7f00ff,100:ff00cc&height=180&section=header&text=Welcome&fontSize=28&fontColor=ffffff&animation=twinkling" />
 
 </div>
 
