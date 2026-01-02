@@ -59,24 +59,13 @@ I’m a **tech-driven problem solver** passionate about building **scalable syst
 
 ---
 
-## 📈 GitHub Activity — Real-Time Signals
+## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuel-0228&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-0228&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel-0228&show_icons=true&cache_seconds=1800)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-0228&layout=compact&cache_seconds=1800)
 
-## 🔥 Contribution Streak (Consistency Mode)
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=samuel-0228&theme=tokyonight" />
-</p>
-
-
----
+![Streak](https://streak-stats.demolab.com?user=samuel-0228)
 
 ## 🧩 Contribution Graph (Energy Map)
 
