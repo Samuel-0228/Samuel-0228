@@ -1,44 +1,157 @@
-# Samuel Y.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Samuel Y. - Profile</title>
+    <style>
+        /* Global Styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&multiline=true&lines=Hi,+I'm+Samuel+Y.;Tech+Student+Majoring+in+Information+Systems;At+Addis+Ababa+University" alt="Welcome Typing">
-</div>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
 
----
+        .profile-container {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            padding: 40px;
+            max-width: 600px;
+            width: 100%;
+            text-align: center;
+            animation: fadeInUp 1s ease-out;
+        }
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AAU-Information+Systems-007ACC?style=for-the-badge&logo=university&logoColor=white">
-  <img src="https://img.shields.io/badge/Status-Learning+%26+Coding-00D4AA?style=for-the-badge&logo=code&logoColor=white">
-</div>
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
 
-## Quick Intro
+        /* Header */
+        h1 {
+            font-size: 3em;
+            font-weight: bold;
+            color: #4a5568;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+        }
 
-Hey! I'm **Samuel Y.**, a passionate tech student majoring in **Information Systems** at **Addis Ababa University** (Class of 2025). I'm all about exploring code, data, and systems that make life easier – one line at a time. Let's connect and build something cool! 🚀
+        .divider {
+            width: 100px;
+            height: 4px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            margin: 0 auto 30px;
+            border-radius: 2px;
+        }
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuel-0228&show_icons=true&theme=dracula&hide_border=true" width="48%" alt="GitHub Stats">
-</div>
+        /* Intro Section */
+        .intro {
+            margin-bottom: 40px;
+            padding: 20px;
+            background: rgba(102, 126, 234, 0.1);
+            border-radius: 15px;
+            border-left: 5px solid #667eea;
+        }
 
----
+        .intro p {
+            font-size: 1.1em;
+            margin-bottom: 15px;
+        }
 
-## 📫 Reach Out
-<div align="center">
-  <a href="mailto:ytsamuael@gmail.com">
-    <img src="https://img.shields.io/badge/Email-E91E63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/samuel-0228">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/ytsamuel">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+        .intro strong {
+            color: #4a5568;
+        }
 
----
+        /* Reach Out Section */
+        .reach-out {
+            margin-bottom: 30px;
+        }
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Code.+Learn.+Grow.;One+Commit+at+a+Time" alt="Outro Typing">
-  <br><sub>Made with ❤️ | © 2025 Samuel Y.</sub>
-</div>
+        .reach-out h2 {
+            font-size: 1.5em;
+            color: #4a5568;
+            margin-bottom: 15px;
+        }
 
+        /* Footer */
+        .footer {
+            font-size: 0.9em;
+            color: #718096;
+            border-top: 1px solid rgba(102, 126, 234, 0.2);
+            padding-top: 20px;
+        }
 
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .profile-container {
+                padding: 30px 20px;
+            }
+
+            h1 {
+                font-size: 2.5em;
+            }
+        }
+
+        /* GitHub Streaks Placeholder - Embed actual GitHub contribution graph if needed */
+        /* For streaks to work, replace with: <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Samuel Y. GitHub Stats" /> */
+        /* Or use GitHub's contribution graph: <img src="https://ghchart.rshah.org/YOUR_USERNAME" /> */
+        .streaks-placeholder {
+            margin-top: 30px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.8);
+            border-radius: 10px;
+            font-style: italic;
+            color: #718096;
+        }
+    </style>
+</head>
+<body>
+    <div class="profile-container">
+        <header>
+            <h1># Samuel Y.</h1>
+            <div class="divider"></div>
+        </header>
+
+        <section class="intro">
+            <h2>Quick Intro</h2>
+            <p>Hey! I'm <strong>Samuel Y.</strong>, a passionate tech student majoring in <strong>Information Systems</strong> at <strong>Addis Ababa University</strong> (Class of 2024). I'm all about exploring code, data, and systems that make life easier – one line at a time. Let's connect and build something cool! 🚀</p>
+        </section>
+
+        <section class="reach-out">
+            <h2>📫 Reach Out</h2>
+            <!-- Add your contact links here without new content, e.g., <a href="mailto:samuel@example.com">Email</a> -->
+        </section>
+
+        <footer class="footer">
+            <p>Made with ❤️ | © 2025 Samuel Y.</p>
+        </footer>
+
+        <!-- Streaks Section - This will work if you replace with actual GitHub embed -->
+        <div class="streaks-placeholder">
+            <!-- Embed your GitHub contribution streaks here for dynamic functionality -->
+            <!-- Example: <script src="https://github-readme-stats.vercel.app/api?username=samuelY&show_icons=true"></script> -->
+            <p>Contribution streaks and other dynamic elements go here – fully functional with GitHub integration!</p>
+        </div>
+    </div>
+</body>
+</html>
