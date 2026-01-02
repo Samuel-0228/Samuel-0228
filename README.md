@@ -63,7 +63,7 @@ I’m a **tech-driven problem solver** passionate about building **scalable syst
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel-0228&show_icons=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-0228&layout=compact&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-0228&layout=compact&cache_seconds=1800)
 
 ![Streak](https://streak-stats.demolab.com?user=samuel-0228)
 
