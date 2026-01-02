@@ -65,11 +65,11 @@ I’m a **tech-driven problem solver** passionate about building **scalable syst
 
 <!-- Overall GitHub Stats -->
 <img height="170"
-     src="https://github-readme-stats.vercel.app/api?username=samuel-0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+     src="https://github-readme-stats.vercel.app/api?username=Samuel-0228&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 <!-- Top Languages -->
 <img height="170"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-0228&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 </div>
 
@@ -80,7 +80,7 @@ I’m a **tech-driven problem solver** passionate about building **scalable syst
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=samuel-0&theme=tokyonight&hide_border=true&background=0d1117" />
+  src="https://streak-stats.demolab.com?user=samuel-0228&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
