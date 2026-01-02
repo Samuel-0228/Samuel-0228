@@ -32,32 +32,6 @@ I’m a **tech-driven problem solver** passionate about building **scalable syst
 
 ## ⚡ Tech Stack (Live Loadout)
 
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,sql" />
-
-### Frameworks & Tools
-
-<img src="https://skillicons.dev/icons?i=django,react,nodejs,git,github,linux" />
-
-### Data & Systems
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,pandas" />
-
-</div>
-
----
-
-## 🧠 What I’m Into Right Now
-
-* 🤖 Intelligent systems
-* 📊 Data analysis & visualization
-* 🌐 Backend & system design
-* 🔐 Secure, scalable applications
-
----
 
 ## 📈 GitHub Activity
 
