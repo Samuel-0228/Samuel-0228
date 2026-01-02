@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<!-- Animated Header -->
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=32&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&lines=Samuel+Y.;Information+Systems+Student+%40+AAU;Building+the+Future+with+Code+%26+Data" alt="Typing SVG" />
 
 <br/>
 
-<!-- Glassmorphism Banner -->
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff,50:7f00ff,100:ff00cc&height=180&section=header&text=Welcome&fontSize=28&fontColor=ffffff&animation=twinkling" />
 
