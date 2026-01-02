@@ -1,8 +1,4 @@
-<!-- =============================== -->
 
-<!--   FUTURISTIC GITHUB README     -->
-
-<!-- =============================== -->
 
 <div align="center">
 
@@ -28,7 +24,6 @@ Major: Information Systems
 University: Addis Ababa University
 Class: 2024
 Focus: [Software, Data, Systems]
-Mindset: "Automate. Optimize. Innovate."
 ```
 
 I’m a **tech-driven problem solver** passionate about building **scalable systems**, uncovering insights from **data**, and crafting **clean, efficient code**. I believe the future is written in logic — and I’m here to help write it.
@@ -72,7 +67,7 @@ I’m a **tech-driven problem solver** passionate about building **scalable syst
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=samuelY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-0228&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 </div>
 
@@ -82,7 +77,7 @@ I’m a **tech-driven problem solver** passionate about building **scalable syst
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=samuelY&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://streak-stats.demolab.com?user=samuel-0228&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
@@ -92,15 +87,9 @@ I’m a **tech-driven problem solver** passionate about building **scalable syst
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samuelY&bg_color=0d1117&color=00f5ff&line=7f00ff&point=ff00cc&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samuel-0228&bg_color=0d1117&color=00f5ff&line=7f00ff&point=ff00cc&hide_border=true" />
 
 </div>
-
----
-
-## 🚀 Featured Mindset
-
-> **"Code is not just instructions — it’s a vision executed with precision."**
 
 ---
 
@@ -112,11 +101,12 @@ I’m a **tech-driven problem solver** passionate about building **scalable syst
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:samuel@example.com">
+<a href="mailto:ytsamuael@gmail.com">
   <img src="https://img.shields.io/badge/Email-FF0066?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/samuelY">
+<a href="https://twitter.com/SamuelYT367627
+">
   <img src="https://img.shields.io/badge/Twitter-0F172A?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
@@ -128,19 +118,3 @@ I’m a **tech-driven problem solver** passionate about building **scalable syst
 
 * 🧠 **Daily Goal:** Learn one new concept
 * ⚙️ **Favorite Command:** `git commit -m "progress"`
-* 🌌 **Dream:** Build systems that outlive trends
-
----
-
-<div align="center">
-
-<!-- Footer -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:7f00ff,100:00f5ff&height=140&section=footer&animation=twinkling" />
-
-<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-brightpink.svg" />
-<img src="https://img.shields.io/badge/%C2%A9%202025%20Samuel%20Y.-00f5ff.svg" />
-
-</div>
-
-<!-- Replace 'samuelY' with your actual GitHub username everywhere for live data -->
