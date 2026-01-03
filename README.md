@@ -30,8 +30,6 @@ I’m a **tech-driven problem solver** passionate about building **scalable syst
 
 ---
 
-## ⚡ Tech Stack (Live Loadout)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel-0228&show_icons=true&cache_seconds=1800)
 <!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-0228&layout=compact&cache_seconds=1800)
@@ -48,7 +46,7 @@ I’m a **tech-driven problem solver** passionate about building **scalable syst
 
 -->
 
- 🌐 Let’s Connect
+## 🌐 Let’s Connect
 
 <div align="center">
 
@@ -67,9 +65,3 @@ I’m a **tech-driven problem solver** passionate about building **scalable syst
 
 </div>
 
----
-
-## 🛸 Fun Extras
-
-* 🧠 **Daily Goal:** Learn one new concept
-* ⚙️ **Favorite Command:** `git commit -m "progress"`
