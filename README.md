@@ -43,13 +43,13 @@ I’m a **tech-driven problem solver** passionate about building **scalable syst
 
 ## 🧩 Contribution Graph (Energy Map)
 
-<div align="center">
+<!--<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuel-0228&bg_color=0s1117&color=00f5ff&line=7f00ff&point=ff00cc&hide_border=true" />
 
 </div>
 
----
+-->
 
 ## 🌐 Let’s Connect
 
