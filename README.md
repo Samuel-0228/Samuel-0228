@@ -26,7 +26,7 @@ Class: 2024
 Focus: [Software, Data, Systems]
 ```
 
-I’m a **tech-driven problem solver** passionate about building **scalable systems**, uncovering insights from **data**, and crafting **clean, efficient code**. I believe the future is written in logic — and I’m here to help write it.
+<!--I’m a **tech-driven problem solver** passionate about building **scalable systems**, uncovering insights from **data**, and crafting **clean, efficient code**. I believe the future is written in logic and I’m here to help write it.-->
 
 ---
 
