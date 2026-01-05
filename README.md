@@ -27,8 +27,7 @@ Focus: [Software, Data, Systems]
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Samuel-0228&layout=compact&cache_seconds=86400)
-
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Samuel-0228&show_icons=true&locale=en&layout=compact&theme=blue-green&hide_border=true&card_width=450px" alt="Samuel"/></p>
 
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel-0228&show_icons=true&cache_seconds=1800)
