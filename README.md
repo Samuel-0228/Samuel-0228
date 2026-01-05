@@ -27,9 +27,9 @@ Focus: [Software, Data, Systems]
 
 ---
 
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Samuel-0228&show_icons=true&locale=en&layout=compact&theme=blue-green&hide_border=true&card_width=450px" alt="Samuel"/></p>
+<!--<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Samuel-0228&show_icons=true&locale=en&layout=compact&theme=blue-green&hide_border=true&card_width=450px" alt="Samuel"/></p>
 
-<!--
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel-0228&show_icons=true&cache_seconds=1800)
 ![Streak](https://streak-stats.demolab.com?user=samuel-0228)
 
