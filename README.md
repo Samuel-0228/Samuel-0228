@@ -43,17 +43,22 @@ Focus: [Software, Data, Systems]
 
 <div align="center">
 
-<a href="https://linkedin.com/in/samuelYt">
+<a href="https://linkedin.com/in/samuel-yeshambel">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:ytsamuael@gmail.com">
+<a href="mailto:Samuelyeshambel@outlook.com">
   <img src="https://img.shields.io/badge/Email-FF0066?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://twitter.com/SamuelYT367627
 ">
   <img src="https://img.shields.io/badge/Twitter-0F172A?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://www.samuelyt.tech
+">
+  <img src="https://img.shields.io/badge/internet-0F172A?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 </div>
