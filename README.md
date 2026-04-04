@@ -58,7 +58,7 @@ Focus: [Software, Data, Systems]
 
 <a href="https://www.samuelyt.tech
 ">
-  <img src="https://img.shields.io/website
+  <img src="https://img.shields.io/static/v1?label=%20&message=%20&color=0F172A&style=for-the-badge&logo=globe&logoColor=white
 " />
 </a>
 
