@@ -16,7 +16,6 @@
 Name: Samuel Y.
 Major: Information Systems
 University: Addis Ababa University
-Class: 2024
 Focus: [Software, Data, Systems]
 ```
 
