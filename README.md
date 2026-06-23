@@ -17,7 +17,7 @@ Name: Samuel Y.
 Major: Information Systems
 job: Dala Studio Ambassador
 University: Addis Ababa University
-Focus: [Software, Data, Systems]
+Focus: [Automation, Data, Systems] 
 ```
 
 <!--I’m a **tech-driven problem solver** passionate about building **scalable systems**, uncovering insights from **data**, and crafting **clean, efficient code**. I believe the future is written in logic and I’m here to help write it.-->
