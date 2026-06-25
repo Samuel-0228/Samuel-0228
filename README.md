@@ -15,7 +15,7 @@
 ```yaml
 Name: Samuel Y.
 Major: Information Systems
-job: Dala Studio Ambassador
+Current Position: Dala Studio Ambassador
 University: Addis Ababa University
 Focus: [Automation, Data, Systems] 
 ```
