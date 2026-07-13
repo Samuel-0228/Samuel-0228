@@ -1,4 +1,4 @@
-# Samuel 👋
+# Samuel 
 
 Building software that solves real problems.
 
@@ -22,4 +22,4 @@ TypeScript • JavaScript • Python • React • Next.js • Node.js • Postg
 
 ---
 
-🌐 samuelyt.tech • 📧 [Samuelnaod3@gmail.com](mailto:Samuelnaod3@gmail.com) • 𝕏 @SamuelYT367627
+📧 [Samuelnaod3@gmail.com](mailto:Samuelnaod3@gmail.com)
